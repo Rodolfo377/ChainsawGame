@@ -1977,3 +1977,311 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.11-12.10.25:604][289]Cmd: MAP CHECKDEP NOCLEARLOG
 [2020.07.11-12.10.25:604][289]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.205ms to complete.
 [2020.07.11-12.10.25:604][289]LogFileHelpers: Loading map 'Minimal_Default' took 0.085
+[2020.07.11-12.22.24:103][138]LogRenderer: Reallocating scene render targets to support 972x508 Format 10 NumSamples 1 (Frame:9).
+[2020.07.11-12.22.24:324][146]LogRenderer: Reallocating scene render targets to support 976x508 Format 10 NumSamples 1 (Frame:11).
+[2020.07.11-12.22.24:424][147]LogRenderer: Reallocating scene render targets to support 984x508 Format 10 NumSamples 1 (Frame:13).
+[2020.07.11-12.22.24:534][148]LogRenderer: Reallocating scene render targets to support 1000x508 Format 10 NumSamples 1 (Frame:15).
+[2020.07.11-12.22.35:043][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.07.11-12.22.52:899][807]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.07.11-12.22.52:901][807]LogMetaData: Removing '/Game/Maps/Lv_1.SKEL_Lv_1_C' ref from Metadata '/Game/Maps/Minimal_Default_2.PackageMetaData'
+[2020.07.11-12.22.52:901][807]LogMetaData: Removing '/Game/Maps/Lv_1.Lv_1_C' ref from Metadata '/Game/Maps/Minimal_Default_2.PackageMetaData'
+[2020.07.11-12.22.52:944][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lv_1" FILE="../../../../../../Users/John/Documents/ChainsawGame/ChainsawProject/Content/Maps/Lv_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.11-12.22.52:981][807]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2020.07.11-12.22.53:071][807]LogSavePackage: Moving '../../../../../../Users/John/Documents/ChainsawGame/ChainsawProject/Saved/Lv_1D27B321C432C8B08FA3F13A815E5AACA.tmp' to '../../../../../../Users/John/Documents/ChainsawGame/ChainsawProject/Content/Maps/Lv_1.umap'
+[2020.07.11-12.22.53:082][807]LogFileHelpers: Saving map 'Lv_1' took 0.138
+[2020.07.11-12.22.53:205][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.07.11-12.22.53:233][807]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2020.07.11-12.22.53:246][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2020.07.11-12.22.53:288][807]AssetCheck: New page: Asset Save: Lv_1
+[2020.07.11-12.22.53:288][807]LogContentValidation: Display: Validating World /Game/Maps/Lv_1.Lv_1
+[2020.07.11-12.22.55:248][923]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Lv_1.Lv_1
+[2020.07.11-12.22.55:259][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.11-12.22.55:260][923]Cmd: MAP LOAD FILE="../../../../../../Users/John/Documents/ChainsawGame/ChainsawProject/Content/Maps/Lv_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.11-12.22.55:260][923]LightingResults: New page: Lighting Build
+[2020.07.11-12.22.55:260][923]LoadErrors: New page: Loading map: Lv_1.umap
+[2020.07.11-12.22.55:263][923]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-12.22.55:263][923]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-12.22.55:263][923]MapCheck: New page: Map Check
+[2020.07.11-12.22.55:264][923]LightingResults: New page: Lighting Build
+[2020.07.11-12.22.55:278][923]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000297214F3600), frame # 117923
+[2020.07.11-12.22.55:278][923]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002971D33FC00), frame # 117923
+[2020.07.11-12.22.55:279][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.07.11-12.22.55:291][923]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.11-12.22.55:291][923]LogAIModule: Creating AISystem for world Lv_1
+[2020.07.11-12.22.55:292][923]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000296C3D77000), frame # 117923
+[2020.07.11-12.22.55:292][923]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000296C4659940), frame # 117923
+[2020.07.11-12.22.55:307][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2020.07.11-12.22.55:347][923]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.11-12.22.55:347][923]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.201ms to complete.
+[2020.07.11-12.22.55:347][923]LogFileHelpers: Loading map 'Lv_1' took 0.087
+[2020.07.11-12.23.03:335][192]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor41)
+[2020.07.11-12.23.05:211][297]Cmd: EDIT COPY
+[2020.07.11-12.23.05:478][311]Cmd: EDIT PASTE
+[2020.07.11-12.23.21:651][891]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.07.11-12.23.27:129][ 45]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2020.07.11-12.23.28:205][101]Cmd: EDIT COPY
+[2020.07.11-12.23.28:438][113]Cmd: EDIT PASTE
+[2020.07.11-12.23.33:416][344]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor72)
+[2020.07.11-12.23.40:313][566]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere2)
+[2020.07.11-12.23.48:767][959]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.07.11-12.23.51:043][ 24]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere2)
+[2020.07.11-12.23.52:304][ 90]Cmd: EDIT COPY
+[2020.07.11-12.23.52:785][117]Cmd: EDIT PASTE
+[2020.07.11-12.23.56:440][263]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor77)
+[2020.07.11-12.23.59:314][345]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere3)
+[2020.07.11-12.24.01:479][449]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor91)
+[2020.07.11-12.24.04:088][531]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere3)
+[2020.07.11-12.24.06:524][654]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor90)
+[2020.07.11-12.24.08:063][739]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere3)
+[2020.07.11-12.24.10:079][847]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tree2)
+[2020.07.11-12.24.11:479][925]Cmd: EDIT COPY
+[2020.07.11-12.24.11:837][944]Cmd: EDIT PASTE
+[2020.07.11-12.24.17:420][161]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor108)
+[2020.07.11-12.24.26:702][546]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere5)
+[2020.07.11-12.24.28:031][615]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tree4)
+[2020.07.11-12.24.31:476][793]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor114)
+[2020.07.11-12.24.37:409][ 72]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere5)
+[2020.07.11-12.24.39:053][162]Cmd: DELETE
+[2020.07.11-12.24.39:053][162]Cmd: ACTOR DELETE
+[2020.07.11-12.24.39:060][162]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.07.11-12.24.39:061][162]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.07.11-12.24.39:073][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.07.11-12.24.39:076][162]LogEditorActor: Deleted 2 Actors (0.022 secs)
+[2020.07.11-12.24.44:168][363]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere4)
+[2020.07.11-12.24.46:020][465]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Sphere3)
+[2020.07.11-12.24.47:433][537]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Sphere2)
+[2020.07.11-12.24.48:431][589]Cmd: EDIT COPY
+[2020.07.11-12.24.48:699][603]Cmd: EDIT PASTE
+[2020.07.11-12.24.58:748][960]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere2)
+[2020.07.11-12.25.19:366][853]LogRenderer: Reallocating scene render targets to support 1000x512 Format 10 NumSamples 1 (Frame:2231).
+[2020.07.11-12.25.34:245][388]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Box_brick)
+[2020.07.11-12.25.35:488][452]Cmd: EDIT COPY
+[2020.07.11-12.25.40:009][605]Cmd: EDIT PASTE
+[2020.07.11-12.25.50:923][120]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.07.11-12.25.52:461][164]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor77)
+[2020.07.11-12.25.53:199][183]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Box_brick2)
+[2020.07.11-12.25.58:752][473]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.07.11-12.26.01:416][557]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Car)
+[2020.07.11-12.26.02:536][611]Cmd: EDIT COPY
+[2020.07.11-12.26.02:669][616]Cmd: EDIT PASTE
+[2020.07.11-12.26.12:329][ 17]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.07.11-12.26.18:253][174]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere6)
+[2020.07.11-12.26.19:728][251]Cmd: DELETE
+[2020.07.11-12.26.19:728][251]Cmd: ACTOR DELETE
+[2020.07.11-12.26.19:735][251]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.07.11-12.26.19:735][251]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.07.11-12.26.19:747][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2020.07.11-12.26.19:750][251]LogEditorActor: Deleted 2 Actors (0.022 secs)
+[2020.07.11-12.26.21:103][330]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree5)
+[2020.07.11-12.26.21:494][348]Cmd: DELETE
+[2020.07.11-12.26.21:494][348]Cmd: ACTOR DELETE
+[2020.07.11-12.26.21:500][348]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.07.11-12.26.21:501][348]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.07.11-12.26.21:513][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2020.07.11-12.26.21:515][348]LogEditorActor: Deleted 2 Actors (0.021 secs)
+[2020.07.11-12.26.23:236][442]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere7)
+[2020.07.11-12.26.25:125][547]Cmd: DELETE
+[2020.07.11-12.26.25:125][547]Cmd: ACTOR DELETE
+[2020.07.11-12.26.25:131][547]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.07.11-12.26.25:132][547]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.07.11-12.26.25:144][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2020.07.11-12.26.25:145][547]LogEditorActor: Deleted 2 Actors (0.021 secs)
+[2020.07.11-12.26.27:007][644]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Box_brick2)
+[2020.07.11-12.26.29:995][802]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Car2)
+[2020.07.11-12.26.31:391][878]Cmd: EDIT COPY
+[2020.07.11-12.26.31:682][892]Cmd: EDIT PASTE
+[2020.07.11-12.26.43:237][405]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.07.11-12.26.45:372][467]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Box_brick2)
+[2020.07.11-12.26.50:853][636]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Wood)
+[2020.07.11-12.26.59:571][137]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Person)
+[2020.07.11-12.27.00:740][195]Cmd: EDIT COPY
+[2020.07.11-12.27.01:073][213]Cmd: EDIT PASTE
+[2020.07.11-12.27.09:480][575]Cmd: EDIT PASTE
+[2020.07.11-12.27.17:702][960]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor103)
+[2020.07.11-12.27.20:998][ 49]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.07.11-12.27.27:577][215]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Brick)
+[2020.07.11-12.27.28:611][269]Cmd: EDIT COPY
+[2020.07.11-12.27.29:174][301]Cmd: EDIT PASTE
+[2020.07.11-12.27.40:478][746]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.07.11-12.27.42:963][806]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Brick2)
+[2020.07.11-12.27.45:865][953]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.07.11-12.27.49:913][ 67]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2020.07.11-12.27.50:914][117]Cmd: EDIT COPY
+[2020.07.11-12.27.51:210][133]Cmd: EDIT PASTE
+[2020.07.11-12.27.53:119][235]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor33)
+[2020.07.11-12.27.54:159][290]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor34)
+[2020.07.11-12.27.55:055][339]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2020.07.11-12.28.09:185][ 22]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Brick2)
+[2020.07.11-12.28.13:393][240]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.07.11-12.28.18:313][371]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor113)
+[2020.07.11-12.28.19:289][420]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tree4)
+[2020.07.11-12.28.20:670][496]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Sky_Sphere_C (BP_Sky_Sphere2)
+[2020.07.11-12.28.21:952][567]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.07.11-12.28.24:145][631]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere2)
+[2020.07.11-12.28.25:694][675]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor89)
+[2020.07.11-12.28.33:362][917]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Sphere4)
+[2020.07.11-12.28.34:835][998]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Sphere3)
+[2020.07.11-12.28.36:135][ 69]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Sphere2)
+[2020.07.11-12.28.37:342][131]Cmd: EDIT COPY
+[2020.07.11-12.28.38:069][171]Cmd: EDIT PASTE
+[2020.07.11-12.28.46:286][500]Cmd: TRANSACTION UNDO
+[2020.07.11-12.28.46:286][500]LogEditorTransaction: Undo Move Actors
+[2020.07.11-12.28.56:028][844]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.07.11-12.28.57:575][931]Cmd: TRANSACTION UNDO
+[2020.07.11-12.28.57:575][931]LogEditorTransaction: Undo Clicking on Actors
+[2020.07.11-12.29.21:602][815]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.07.11-12.29.32:733][270]MapCheck: New page: Map Check
+[2020.07.11-12.29.32:755][270]Cmd: MAP REBUILD ALLVISIBLE
+[2020.07.11-12.29.32:763][270]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.07.11-12.29.32:773][270]LogWorld: UWorld::CleanupWorld for Lv_1, bSessionEnded=true, bCleanupResources=false
+[2020.07.11-12.29.32:815][270]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2020.07.11-12.29.32:815][270]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2020.07.11-12.29.32:815][270]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2020.07.11-12.29.32:837][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2020.07.11-12.29.32:840][270]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.07.11-12.29.32:843][270]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.07.11-12.29.32:845][270]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.07.11-12.29.32:848][270]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.07.11-12.29.32:848][270]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.07.11-12.29.32:848][270]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.07.11-12.29.32:848][270]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.07.11-12.29.32:848][270]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.07.11-12.29.32:851][270]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.07.11-12.29.32:854][270]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.07.11-12.29.32:857][270]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.07.11-12.29.32:860][270]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.07.11-12.29.32:863][270]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.07.11-12.29.32:866][270]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.07.11-12.29.32:868][270]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.07.11-12.29.32:871][270]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.07.11-12.29.32:873][270]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.07.11-12.29.36:201][270]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2020.07.11-12.29.36:201][270]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2020.07.11-12.29.36:201][270]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2020.07.11-12.29.36:201][270]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2020.07.11-12.29.36:201][270]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2020.07.11-12.29.36:201][270]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2020.07.11-12.29.36:201][270]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2020.07.11-12.29.36:201][270]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2020.07.11-12.29.36:201][270]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2020.07.11-12.29.36:201][270]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2020.07.11-12.29.36:201][270]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.07.11-12.29.36:201][270]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.07.11-12.29.36:201][270]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.07.11-12.29.36:201][270]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.07.11-12.29.36:201][270]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.07.11-12.29.36:201][270]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.07.11-12.29.36:201][270]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.07.11-12.29.36:201][270]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.07.11-12.29.36:201][270]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.07.11-12.29.36:201][270]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.07.11-12.29.36:201][270]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.07.11-12.29.36:201][270]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.07.11-12.29.36:201][270]TextureStreamingBuild: Display: Compiling optional shaders took 3.360 seconds.
+[2020.07.11-12.29.36:374][270]LogLevel: Display: Export Material TexCoord Scales took 0.173 seconds.
+[2020.07.11-12.29.36:378][270]TextureStreamingBuild: Display: Build Texture Streaming took 0.004 seconds.
+[2020.07.11-12.29.36:392][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2020.07.11-12.29.36:401][270]LightingResults: New page: Lighting Build - 11 Jul 2020, 16:29:36
+[2020.07.11-12.29.36:413][270]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.07.11-12.29.36:416][270]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.07.11-12.29.36:416][270]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.07.11-12.29.36:417][270]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.07.11-12.29.36:417][270]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10236
+[2020.07.11-12.29.40:932][270]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.07.11-12.29.40:932][270]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.07.11-12.29.40:932][270]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.07.11-12.29.40:932][270]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.07.11-12.29.40:932][270]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.07.11-12.29.40:932][270]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.07.11-12.29.41:180][270]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.07.11-12.29.41:180][270]MapCheck: New page: Lv_1 - 11 Jul 2020, 16:29:41
+[2020.07.11-12.29.41:224][270]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2020.07.11-12.29.41:227][270]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 46.608ms to complete.
+[2020.07.11-12.29.41:229][270]LogEditorBuildUtils: Build time 0:08
+[2020.07.11-12.29.41:500][271]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wood_Pine, compiling. 
+[2020.07.11-12.29.41:506][271]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wood_Pine, compiling. 
+[2020.07.11-12.29.41:581][271]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.07.11-12.29.41:581][271]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.07.11-12.29.41:581][271]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.07.11-12.29.41:581][271]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.07.11-12.29.41:682][272]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Basic_Wall, compiling. 
+[2020.07.11-12.29.41:689][272]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Basic_Wall, compiling. 
+[2020.07.11-12.29.41:789][273]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2020.07.11-12.29.41:796][273]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2020.07.11-12.29.41:822][274]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Brick_Clay_Beveled, compiling. 
+[2020.07.11-12.29.41:829][274]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Brick_Clay_Beveled, compiling. 
+[2020.07.11-12.29.41:877][275]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Ground_Moss, compiling. 
+[2020.07.11-12.29.41:886][275]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Ground_Moss, compiling. 
+[2020.07.11-12.29.44:729][277]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2020.07.11-12.29.44:729][277]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.07.11-12.29.44:729][277]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.07.11-12.29.44:729][277]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.07.11-12.29.44:729][277]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.07.11-12.29.44:729][277]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.07.11-12.29.44:729][277]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.07.11-12.29.45:461][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2020.07.11-12.30.03:864][ 50]Job is a success!
+[2020.07.11-12.30.04:101][ 51]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.044s
+[2020.07.11-12.30.04:101][ 51]LogVolumetricLightmapImport:      Indirection Texture 32x16x16 = 0.0Mb
+[2020.07.11-12.30.04:101][ 51]LogVolumetricLightmapImport:      BrickData (all levels) 0.7Mb
+[2020.07.11-12.30.04:101][ 51]LogVolumetricLightmapImport:      Bricks at depth
+[2020.07.11-12.30.04:101][ 51]LogVolumetricLightmapImport:          0: 1.4% covering 100.0% of volume
+[2020.07.11-12.30.04:101][ 51]LogVolumetricLightmapImport:          1: 8.7% covering 9.4% of volume
+[2020.07.11-12.30.04:101][ 51]LogVolumetricLightmapImport:          2: 89.9% covering 1.5% of volume
+[2020.07.11-12.30.04:101][ 51]LogVolumetricLightmapImport:      Bricks in each level
+[2020.07.11-12.30.04:101][ 51]LogVolumetricLightmapImport:          Lv_1 			 138 bricks 	 100.0% (Persistent Level)
+[2020.07.11-12.30.07:044][ 51]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2020.07.11-12.30.07:044][ 51]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.07.11-12.30.07:044][ 51]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.07.11-12.30.07:044][ 51]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2020.07.11-12.30.07:044][ 51]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2020.07.11-12.30.07:044][ 51]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2020.07.11-12.30.07:044][ 51]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 1024X512)
+[2020.07.11-12.30.07:044][ 51]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2020.07.11-12.30.07:044][ 51]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2020.07.11-12.30.07:044][ 51]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 1024X512)
+[2020.07.11-12.30.07:044][ 51]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2020.07.11-12.30.07:044][ 51]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2020.07.11-12.30.07:044][ 51]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 1024X512)
+[2020.07.11-12.30.07:045][ 51]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 1024X1024)
+[2020.07.11-12.30.07:045][ 51]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 1024X1024)
+[2020.07.11-12.30.07:045][ 51]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 1024X512)
+[2020.07.11-12.30.07:045][ 51]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 1024X1024)
+[2020.07.11-12.30.07:045][ 51]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 1024X1024)
+[2020.07.11-12.30.07:045][ 51]LogTexture: Display: Building textures: SkyOcclusion0_7 (AutoDXT, 1024X512)
+[2020.07.11-12.30.07:045][ 51]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 1024X1024)
+[2020.07.11-12.30.07:045][ 51]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 1024X1024)
+[2020.07.11-12.30.07:045][ 51]LogTexture: Display: Building textures: SkyOcclusion0_8 (AutoDXT, 64X32)
+[2020.07.11-12.30.07:045][ 51]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 64X64)
+[2020.07.11-12.30.07:045][ 51]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 64X64)
+[2020.07.11-12.30.07:045][ 51]LogTexture: Display: Building textures: SkyOcclusion0_9 (AutoDXT, 64X32)
+[2020.07.11-12.30.07:045][ 51]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 64X64)
+[2020.07.11-12.30.07:045][ 51]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 64X64)
+[2020.07.11-12.30.07:244][ 51]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 32X32)
+[2020.07.11-12.30.07:244][ 51]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2020.07.11-12.30.07:244][ 51]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 1024X256)
+[2020.07.11-12.30.07:528][ 51]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2020.07.11-12.30.07:528][ 51]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X1024)
+[2020.07.11-12.30.07:528][ 51]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 1024X1024)
+[2020.07.11-12.30.07:529][ 51]LogStaticLightingSystem: Lv_1_BuiltData storing lightmap data for 258 meshes in 13 LightmapResourceClusters (19.8 Meshes per cluster).
+[2020.07.11-12.30.07:543][ 51]Lightmass on LAPTOP: 21.1 sec total, 400 ms importing, 57 ms setup, 2.69 sec photons, 17.7 sec processing, 0 ms extra exporting [258/258 mappings]. Threads: 2:04 min total, 1:08 min processing.
+[2020.07.11-12.30.07:559][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.07.11-12.30.07:605][ 51]LogStaticLightingSystem: Illumination: 31.1 sec (2.64 sec encoding lightmaps, 466 ms encoding shadowmaps)
+[2020.07.11-12.30.07:605][ 51]LogStaticLightingSystem: Lightmap texture memory:  18.7 MB (18.7 MB streaming, 0.0 MB non-streaming), 18 textures
+[2020.07.11-12.30.07:605][ 51]LogStaticLightingSystem: Shadowmap texture memory: 4.3 MB (4.3 MB streaming, 0.0 MB non-streaming), 6 textures
+[2020.07.11-12.30.07:958][ 51]DumpUnbuiltLightIteractions
+[2020.07.11-12.30.07:958][ 51]Lights with unbuilt interactions: 0
+[2020.07.11-12.30.07:958][ 51]
+[2020.07.11-12.30.07:958][ 51]Primitives with unbuilt interactions: 0
+[2020.07.11-12.30.08:189][ 52]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.07.11-12.30.08:189][ 52]MapCheck: New page: Lv_1 - 11 Jul 2020, 16:30:08
+[2020.07.11-12.30.08:192][ 52]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3.346ms to complete.
+[2020.07.11-12.32.59:648][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2020.07.11-12.32.59:806][374]LogSavePackage: Moving '../../../../../../Users/John/Documents/ChainsawGame/ChainsawProject/Saved/Lv_1_Auto4A267D4D545E292FF6F7893A1EEF024B3.tmp' to '../../../../../../Users/John/Documents/ChainsawGame/ChainsawProject/Saved/Autosaves/Game/Maps/Lv_1_Auto4.umap'
+[2020.07.11-12.32.59:817][374]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Lv_1' took 0.181
+[2020.07.11-12.32.59:817][374]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.181
+[2020.07.11-12.33.59:318][619]LogSlate: Window 'Message Log' being destroyed
+[2020.07.11-12.33.59:342][619]LogSlate: Window 'Message Log' being destroyed
+[2020.07.11-12.34.16:293][132]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.07.11-12.43.00:293][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.07.11-12.43.00:298][212]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Lv_1' took 0.018
